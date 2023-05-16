@@ -1,0 +1,21 @@
+.card-list {
+  text-align: center;
+  width: 33%;
+  margin: auto;
+}
+.card {
+  display: flex;
+  padding: 5px;
+  width: 100%;
+  border: 2px solid black;
+  align-items: center;
+  margin: 5px 0px;
+}
+.image-circle {
+  border-radius: 59px;
+  width: 100px;
+  height: 100px;
+}
+.nameContainer {
+  margin-left: 17px;
+}
